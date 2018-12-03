@@ -1,0 +1,12 @@
+
+int var, aux, mundo;
+
+
+if ( A ) b = 0;
+
+
+if( a < 3)
+{
+
+
+}
